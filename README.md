@@ -20,6 +20,9 @@ This data analysis project aims to provide insights into online sales on an e-co
 
 
 
+<img width="403" alt="e-commerce sales dashboard screenshot" src="https://github.com/Charu-takkar/eCommerce-Sales-Analysis-Project/assets/164625645/01309725-6cad-469f-bb29-e6f49612a19f">
+
+
 ### Data Sources
 
 Online Orders e-commerce web  Data: The primary dataset used for this analysis is the "OnlineOrders_of_a_ecommerce_website.csv" file , containing detailed information about each order made inthe first halfof 2016 (January to June).
