@@ -13,7 +13,7 @@
 ### Project Overview
 ---
 
-This data analysis project aims to provide insights into the Gross Revenue in Movie Industry over the past years.By analyzing various aspects of the Movie data, we seek to identify trends,make data-driven recommendations, and gain deeper understanding of the industry performance over the past years.
+This data analysis project aims to provide insights into online sales on an e-commerce website for the first halfof 2016 (January to June).By analyzing various aspects of the sales data, we seek to identify trends,make data-driven recommendations, and gain deeper understanding of the online orders performance.
 
 
 
@@ -22,7 +22,7 @@ This data analysis project aims to provide insights into the Gross Revenue in Mo
 
 ### Data Sources
 
-IMDb Movie Data: The primary dataset used for this analysis is the "003 IMDb-Movie-Database.xlsx" file , containing detailed information about each Movie made made from 1920 to 2015 by color/B&W,language and country.
+Online Orders e-commerce web  Data: The primary dataset used for this analysis is the "OnlineOrders_of_a_ecommerce_website.csv" file , containing detailed information about each order made inthe first halfof 2016 (January to June).
 
 ### Tools
 
@@ -41,29 +41,30 @@ In the initial data preparation phase, we performed the following tasks:
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the movie revenue data to answer key questions , such as:
+EDA involved exploring the sales data to answer key questions , such as:
 
-- What is the overall Revenue trend?
-- Which movie/genre are top sellers?
-- Which are the peak revenue periods?
+- Which product Category is contributing the most?
+- Which Sub-category /product are top sellers in each product category?
+- Which are the peak sales months/hour of a day?
 
  ### Results/Findings
 
 The analysis results are summarised as follows:
 
-1. The Movie industry revenue has been steadily increasing since 1976, with a noticeable peak in 2002,2008,2012.
-2. Action Genre is the best performing genre in terms of Gross Revenue , followed by Comedy, Adventure,Drama and Crime.
-3. USA is making the highest revenue(89.4%), followed by UK(5.3%)
-4. Pg-13,PG rated movies can be targeted for growth.
+1. The "Jewellery" category has topped the charts with 74% sales,followed by "Clothing" 6% and" Home Decor & Festive Needs" 4% of total sales value.
+2. In Jewellery,"Rings" is the best performing sub-category ,having 72% sales.Brands like Brands "Karatcraft","Radiant Bay" and "BlueStone" are among the top.
+3. In Clothing Category,"Women's Clothing" is the best performing sub-category ,having 56% sales with "Lingerie,sleep& swimwear"(40%), "Ethnic wear"(25%) , "Western wear"(22%) sub-sub-catgory topping the charts. Brands like "Black","Lajo", "White" among the top.
+4. "Bras" is making the highest sales(34%) in Women's Clothing Category.  
+5. Brand "Gaga" and "Diviniti" can be targeted for growth in "Home Decor and Festive Needs" product Category.
 
 ### Recommendations
 
 Based on analysis, we recommend following actions:
 
-- Invest in Action,Adventure genre to maximize revenue overall (In last 5 years(2010-2015), Action genre contributed almost 45% of total Gross Revenue, Adventure 25% and Comedy 13% in contrast to 1990s with 37% of Gross Revenue coming from Action genre movies,26% comedy, 16% Drama and 14% Adventure for PG, PG-13,G and R rated films). 
-- For PG-13 rated movies, focus on expanding in Action genre.
-- For R rated movies, focus on expanding in both Comedy and Action genre.
-- For PG rated movies, focus should be on Adventure genre.
+- Invest in Jewellery Category to maximize sales overall.
+- In Jewellery category, focus on expanding in Rings.
+- In Women's clothing category, focus on expanding in "Lingerie,sleep&swimwear" sub-category with "Bras".
+- In Homer Decor & Festive Needs categoruy, focus should be on Paintings & Religious idols.
 
 😄
 
